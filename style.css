@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+}
+button{
+    background-color: yellow;
+    display: block;
+    border-radius: 20%;
+}
+button:hover{
+    background-color: red;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
